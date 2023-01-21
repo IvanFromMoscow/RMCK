@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfCompany xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Company>
+    <Id>1</Id>
+    <Name>XXX_2</Name>
+    <Price>25,00</Price>
+    <OHZ>2</OHZ>
+    <OPZ>3</OPZ>
+  </Company>
+  <Company>
+    <Id>2</Id>
+    <Name>XXX_3</Name>
+    <Price>45,00</Price>
+    <OHZ>2</OHZ>
+    <OPZ>3</OPZ>
+  </Company>
+  <Company>
+    <Id>3</Id>
+    <Name>XXX_3</Name>
+    <Price>55,00</Price>
+    <OHZ>2</OHZ>
+    <OPZ>3</OPZ>
+  </Company>
+</ArrayOfCompany>
